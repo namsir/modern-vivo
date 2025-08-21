@@ -1,0 +1,13 @@
+[90m= [39m[34;4mApp\Models\Video[39;24m {#6096
+    [34mid[39m: [35m14[39m,
+    [34muser_id[39m: [35m6[39m,
+    [34mtitle[39m: "[32mEt natus voluptas odio et.[39m",
+    [34mdescription[39m: "[32mVoluptas quam perferendis architecto maiores. Amet illum reiciendis provident eum ut earum ut. Quia mollitia consequatur rem reiciendis dolore odit doloribus.[39m",
+    [34msources[39m: [36mnull[39m,
+    [34mstatus[39m: "[32mPrivate[39m",
+    [34mmedia_type[39m: "[32mdoc[39m",
+    [34mthumbnail_path[39m: [36mnull[39m,
+    [34mcreated_at[39m: "[32m2025-08-06 18:03:30[39m",
+    [34mupdated_at[39m: "[32m2025-08-11 22:08:21[39m",
+  }
+
